@@ -1,0 +1,9 @@
+numpy
+scipy
+scikit-learn
+numexpr
+matplotlib
+pandas
+ipdb
+gmplot
+bs4
